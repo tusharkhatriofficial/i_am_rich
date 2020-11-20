@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter application.
+This is a flutter application that I created while learning flutter.
 
 ## Getting Started
 
